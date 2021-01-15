@@ -447,7 +447,7 @@ header:after {
   z-index: 4;
   overflow: hidden; }
   .nav-btn span {
-    background-color: #fff;
+    background-color: #000;
     height: 2px;
     width: 100%;
     display: block;
@@ -749,6 +749,7 @@ header:after {
       margin-top: 0; }
     .nav-list > li > a {
       font-size: 18px;
+      color: white;
       line-height: 34px; } }
 @media (max-width: 575px) {
   .s-header-title .container {
